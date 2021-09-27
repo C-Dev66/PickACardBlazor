@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickACardBlazor", "PickACardBlazor\PickACardBlazor.csproj", "{EE78C040-12A9-48BA-8EB3-9993B12BD7A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE78C040-12A9-48BA-8EB3-9993B12BD7A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE78C040-12A9-48BA-8EB3-9993B12BD7A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE78C040-12A9-48BA-8EB3-9993B12BD7A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE78C040-12A9-48BA-8EB3-9993B12BD7A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5496C90-7FF1-4C64-9B60-FD9550D5F560}
+	EndGlobalSection
+EndGlobal
