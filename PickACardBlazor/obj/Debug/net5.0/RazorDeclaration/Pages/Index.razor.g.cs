@@ -90,6 +90,22 @@ using PickACardBlazor.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 31 "/Users/carlosj/Projects/PickACardBlazor/PickACardBlazor/Pages/Index.razor"
+      
+
+    int numberOfCards = 5;
+    string[] pickedCards = new string[0];
+
+    void UpdateCards()
+    {
+        pickedCards = CardPicker.PickSomeCards(numberOfCards);
+    }
+
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591
